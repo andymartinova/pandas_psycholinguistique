@@ -4,7 +4,7 @@ Projet de conversion de données JSON d'analyses psycholinguistiques en format C
 
 ## Description
 
-Ce projet convertit les données JSON d'expériences psycholinguistiques en fichiers CSV structurés, permettant une analyse plus facile des résultats d'expériences. Il inclut également un module de nettoyage des données pour détecter et supprimer les anomalies (réponses trop rapides ou trop lentes).
+Ce projet convertit les données JSON d'expériences psycholinguistiques en fichiers CSV structurés, permettant une analyse plus facile des résultats d'expériences. Il inclut également un module de nettoyage des données pour détecter et supprimer les anomalies.
 
 ## Structure du projet
 
