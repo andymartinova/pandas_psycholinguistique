@@ -1,0 +1,29 @@
+# Environnement virtuel Python
+venv/
+env/
+ENV/
+.venv
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Fichiers exportés (CSV générés)
+export/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

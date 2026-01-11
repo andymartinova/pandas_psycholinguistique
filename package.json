@@ -1,0 +1,11 @@
+{
+  "name": "pandas-psycholinguistique",
+  "version": "1.0.0",
+  "description": "Conversion de données JSON en CSV avec pandas",
+  "scripts": {
+    "setup": "python3 -m venv venv && ./venv/bin/pip install pandas",
+    "install": "./venv/bin/pip install pandas",
+    "convert": "./venv/bin/python convert_to_csv.py",
+    "help": "echo 'Scripts disponibles: setup, install, convert'"
+  }
+}
