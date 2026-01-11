@@ -1092,15 +1092,6 @@
               "correct": true
             },
             {
-              "trial": 4,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 13283,
-              "correct": false
-            },
-            {
               "trial": 5,
               "sentence": "Der Spielerin gibt das Kind den Ball",
               "condition": "simple_ambiguous",
@@ -1371,15 +1362,6 @@
               "correct": true
             },
             {
-              "trial": 35,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10391,
-              "correct": true
-            },
-            {
               "trial": 36,
               "sentence": "Wir bleiben drinnen, falls es regnet heute",
               "condition": "complex_non_ambiguous",
@@ -1607,24 +1589,6 @@
               "correct": false
             },
             {
-              "trial": 3,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11433,
-              "correct": true
-            },
-            {
-              "trial": 4,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 23470,
-              "correct": true
-            },
-            {
               "trial": 5,
               "sentence": "Wir geben ihr die Schlüssel",
               "condition": "simple_non_ambiguous",
@@ -1632,33 +1596,6 @@
               "response": "ungrammatical",
               "responseTime": 6942,
               "correct": false
-            },
-            {
-              "trial": 6,
-              "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 18230,
-              "correct": false
-            },
-            {
-              "trial": 7,
-              "sentence": "Er kauft Blumen, bevor er geht nach Hause",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9671,
-              "correct": true
-            },
-            {
-              "trial": 8,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13667,
-              "correct": true
             },
             {
               "trial": 9,
@@ -1712,15 +1649,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 3436,
-              "correct": true
-            },
-            {
-              "trial": 15,
-              "sentence": "Er bringt ihnen die Zeitung",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9770,
               "correct": true
             },
             {
@@ -1805,30 +1733,12 @@
               "correct": false
             },
             {
-              "trial": 25,
-              "sentence": "Sie lachen, denn sie sind glücklich",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9295,
-              "correct": true
-            },
-            {
               "trial": 26,
               "sentence": "Wann ankommst du in Berlin?",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 7060,
-              "correct": true
-            },
-            {
-              "trial": 27,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11600,
               "correct": true
             },
             {
@@ -1877,15 +1787,6 @@
               "correct": true
             },
             {
-              "trial": 33,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11001,
-              "correct": true
-            },
-            {
               "trial": 34,
               "sentence": "Sie liebt er",
               "condition": "simple_ambiguous",
@@ -1910,24 +1811,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 6431,
-              "correct": true
-            },
-            {
-              "trial": 37,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 8848,
-              "correct": true
-            },
-            {
-              "trial": 38,
-              "sentence": "Ich kann nicht schlafen ein.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9258,
               "correct": true
             },
             {
@@ -2011,15 +1894,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 4158,
-              "correct": true
-            },
-            {
-              "trial": 4,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11071,
               "correct": true
             },
             {
@@ -2176,30 +2050,12 @@
               "correct": true
             },
             {
-              "trial": 22,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9777,
-              "correct": false
-            },
-            {
               "trial": 23,
               "sentence": "Ich schenke dir eine Blume",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 3064,
-              "correct": true
-            },
-            {
-              "trial": 24,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 17837,
               "correct": true
             },
             {
@@ -2212,30 +2068,12 @@
               "correct": true
             },
             {
-              "trial": 26,
-              "sentence": "Sie liebt ihn",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9292,
-              "correct": true
-            },
-            {
               "trial": 27,
               "sentence": "Ich verstehe, dass du mitkommen willst",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 4105,
-              "correct": true
-            },
-            {
-              "trial": 28,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 14303,
               "correct": true
             },
             {
@@ -2320,24 +2158,6 @@
               "correct": true
             },
             {
-              "trial": 38,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10761,
-              "correct": false
-            },
-            {
-              "trial": 39,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10292,
-              "correct": true
-            },
-            {
               "trial": 40,
               "sentence": "Wir bleiben drinnen, falls es regnet heute",
               "condition": "complex_non_ambiguous",
@@ -2403,15 +2223,6 @@
               "correct": true
             },
             {
-              "trial": 3,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 8881,
-              "correct": true
-            },
-            {
               "trial": 4,
               "sentence": "Ich kann nicht schlafen ein.",
               "condition": "simple_ambiguous",
@@ -2419,15 +2230,6 @@
               "response": "grammatical",
               "responseTime": 6217,
               "correct": false
-            },
-            {
-              "trial": 5,
-              "sentence": "Er ist müde, weil er hat spät ins Bett gegangen",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 17604,
-              "correct": true
             },
             {
               "trial": 6,
@@ -2455,15 +2257,6 @@
               "response": "grammatical",
               "responseTime": 8697,
               "correct": true
-            },
-            {
-              "trial": 9,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 17870,
-              "correct": false
             },
             {
               "trial": 10,
@@ -2547,30 +2340,12 @@
               "correct": true
             },
             {
-              "trial": 19,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 22061,
-              "correct": false
-            },
-            {
               "trial": 20,
               "sentence": "Er sieht mir",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 2118,
-              "correct": true
-            },
-            {
-              "trial": 21,
-              "sentence": "Die Großmutter hat die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9220,
               "correct": true
             },
             {
@@ -2583,15 +2358,6 @@
               "correct": true
             },
             {
-              "trial": 23,
-              "sentence": "du aufräumst dein Zimmer.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11022,
-              "correct": true
-            },
-            {
               "trial": 24,
               "sentence": "Sie liebt ihn",
               "condition": "simple_non_ambiguous",
@@ -2599,33 +2365,6 @@
               "response": "grammatical",
               "responseTime": 2753,
               "correct": true
-            },
-            {
-              "trial": 25,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9033,
-              "correct": true
-            },
-            {
-              "trial": 26,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 8919,
-              "correct": true
-            },
-            {
-              "trial": 27,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 26372,
-              "correct": false
             },
             {
               "trial": 28,
@@ -2661,24 +2400,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 4625,
-              "correct": true
-            },
-            {
-              "trial": 32,
-              "sentence": "Sie liebt er",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 13660,
-              "correct": false
-            },
-            {
-              "trial": 33,
-              "sentence": "Sie lachen, denn sie sind glücklich",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13475,
               "correct": true
             },
             {
@@ -2724,15 +2445,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 3724,
-              "correct": true
-            },
-            {
-              "trial": 39,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 15547,
               "correct": true
             },
             {
@@ -2927,15 +2639,6 @@
               "correct": true
             },
             {
-              "trial": 17,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10667,
-              "correct": false
-            },
-            {
               "trial": 18,
               "sentence": "Ich gebe ihm das Buch",
               "condition": "simple_non_ambiguous",
@@ -2960,15 +2663,6 @@
               "expected": "ungrammatical",
               "response": "grammatical",
               "responseTime": 1998,
-              "correct": false
-            },
-            {
-              "trial": 21,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 13547,
               "correct": false
             },
             {
@@ -3343,15 +3037,6 @@
               "correct": true
             },
             {
-              "trial": 19,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12097,
-              "correct": true
-            },
-            {
               "trial": 20,
               "sentence": "Ich rufe dich an, sobald ich habe Zeit",
               "condition": "complex_ambiguous",
@@ -3579,24 +3264,6 @@
           "endTime": "2025-11-12T23:13:42.913Z",
           "data": [
             {
-              "trial": 1,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 13743,
-              "correct": true
-            },
-            {
-              "trial": 2,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9153,
-              "correct": true
-            },
-            {
               "trial": 3,
               "sentence": "Er sieht mir",
               "condition": "simple_ambiguous",
@@ -3606,15 +3273,6 @@
               "correct": false
             },
             {
-              "trial": 4,
-              "sentence": "Wir geben ihr die Schlüssel",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11075,
-              "correct": true
-            },
-            {
               "trial": 5,
               "sentence": "Ich schenke dich eine Blume",
               "condition": "simple_ambiguous",
@@ -3622,24 +3280,6 @@
               "response": "ungrammatical",
               "responseTime": 5602,
               "correct": true
-            },
-            {
-              "trial": 6,
-              "sentence": "Die Großmutter hat die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10425,
-              "correct": true
-            },
-            {
-              "trial": 7,
-              "sentence": "Er sieht mich",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10249,
-              "correct": false
             },
             {
               "trial": 8,
@@ -3678,15 +3318,6 @@
               "correct": true
             },
             {
-              "trial": 12,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9819,
-              "correct": true
-            },
-            {
               "trial": 13,
               "sentence": "Ich höre dir",
               "condition": "simple_ambiguous",
@@ -3694,15 +3325,6 @@
               "response": "ungrammatical",
               "responseTime": 4157,
               "correct": true
-            },
-            {
-              "trial": 14,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 12094,
-              "correct": false
             },
             {
               "trial": 15,
@@ -3723,15 +3345,6 @@
               "correct": true
             },
             {
-              "trial": 17,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9044,
-              "correct": true
-            },
-            {
               "trial": 18,
               "sentence": "Er kauft Blumen, bevor er geht nach Hause",
               "condition": "complex_ambiguous",
@@ -3747,15 +3360,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 6402,
-              "correct": true
-            },
-            {
-              "trial": 20,
-              "sentence": "Ich höre euch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13576,
               "correct": true
             },
             {
@@ -3786,33 +3390,6 @@
               "correct": true
             },
             {
-              "trial": 24,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 22993,
-              "correct": false
-            },
-            {
-              "trial": 25,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9445,
-              "correct": true
-            },
-            {
-              "trial": 26,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 18428,
-              "correct": false
-            },
-            {
               "trial": 27,
               "sentence": "Du räumst dein Zimmer auf",
               "condition": "simple_non_ambiguous",
@@ -3831,15 +3408,6 @@
               "correct": true
             },
             {
-              "trial": 29,
-              "sentence": "Sie zeigt mir den Weg",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 12232,
-              "correct": true
-            },
-            {
               "trial": 30,
               "sentence": "Sie zeigt mich den Weg",
               "condition": "simple_ambiguous",
@@ -3847,15 +3415,6 @@
               "response": "ungrammatical",
               "responseTime": 3909,
               "correct": true
-            },
-            {
-              "trial": 31,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 22806,
-              "correct": false
             },
             {
               "trial": 32,
@@ -3903,15 +3462,6 @@
               "correct": true
             },
             {
-              "trial": 37,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9758,
-              "correct": true
-            },
-            {
               "trial": 38,
               "sentence": "Mach das Licht an",
               "condition": "simple_non_ambiguous",
@@ -3946,15 +3496,6 @@
               "response": "ungrammatical",
               "responseTime": 5397,
               "correct": true
-            },
-            {
-              "trial": 42,
-              "sentence": "Sie lachen, denn sie sind glücklich",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10097,
-              "correct": false
             }
           ]
         }
@@ -3977,75 +3518,12 @@
           "endTime": "2025-11-13T00:23:04.753Z",
           "data": [
             {
-              "trial": 1,
-              "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 14962,
-              "correct": true
-            },
-            {
               "trial": 2,
               "sentence": "Du räumst dein Zimmer auf",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 7998,
-              "correct": true
-            },
-            {
-              "trial": 3,
-              "sentence": "Wir geben sie die Schlüssel",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 22065,
-              "correct": false
-            },
-            {
-              "trial": 4,
-              "sentence": "Er bringt ihnen die Zeitung",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10848,
-              "correct": true
-            },
-            {
-              "trial": 5,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 14410,
-              "correct": false
-            },
-            {
-              "trial": 6,
-              "sentence": "Ich schenke dir eine Blume",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11480,
-              "correct": true
-            },
-            {
-              "trial": 7,
-              "sentence": "Wir geben ihr die Schlüssel",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 15474,
-              "correct": false
-            },
-            {
-              "trial": 8,
-              "sentence": "Ich kann nicht einschlafen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13477,
               "correct": true
             },
             {
@@ -4056,60 +3534,6 @@
               "response": "ungrammatical",
               "responseTime": 7102,
               "correct": false
-            },
-            {
-              "trial": 10,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 28456,
-              "correct": false
-            },
-            {
-              "trial": 11,
-              "sentence": "Ich höre euch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 20114,
-              "correct": true
-            },
-            {
-              "trial": 12,
-              "sentence": "Wann ankommst du in Berlin?",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 24023,
-              "correct": false
-            },
-            {
-              "trial": 13,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 19512,
-              "correct": true
-            },
-            {
-              "trial": 14,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10249,
-              "correct": false
-            },
-            {
-              "trial": 15,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 17434,
-              "correct": true
             },
             {
               "trial": 16,
@@ -4130,138 +3554,12 @@
               "correct": true
             },
             {
-              "trial": 18,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 16124,
-              "correct": false
-            },
-            {
-              "trial": 19,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 30018,
-              "correct": false
-            },
-            {
-              "trial": 20,
-              "sentence": "Sie zeigt mir den Weg",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 8849,
-              "correct": true
-            },
-            {
-              "trial": 21,
-              "sentence": "Er ruft mich jeden Sonntag an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 16537,
-              "correct": false
-            },
-            {
-              "trial": 22,
-              "sentence": "Er anruft mich jeden Sonntag",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 35511,
-              "correct": false
-            },
-            {
-              "trial": 23,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 24578,
-              "correct": false
-            },
-            {
-              "trial": 24,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 18381,
-              "correct": true
-            },
-            {
-              "trial": 25,
-              "sentence": "Sie ankommen morgen",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 30936,
-              "correct": true
-            },
-            {
-              "trial": 26,
-              "sentence": "Ich schenke dich eine Blume",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 12232,
-              "correct": false
-            },
-            {
-              "trial": 27,
-              "sentence": "Er trinkt, weil er Durst hat",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9333,
-              "correct": true
-            },
-            {
-              "trial": 28,
-              "sentence": "Sie kommen morgen an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9568,
-              "correct": true
-            },
-            {
-              "trial": 29,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9484,
-              "correct": false
-            },
-            {
               "trial": 30,
               "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
               "condition": "complex_ambiguous",
               "expected": "ungrammatical",
               "response": "grammatical",
               "responseTime": 5156,
-              "correct": false
-            },
-            {
-              "trial": 31,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 22747,
-              "correct": false
-            },
-            {
-              "trial": 32,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 51048,
               "correct": false
             },
             {
@@ -4274,57 +3572,12 @@
               "correct": true
             },
             {
-              "trial": 34,
-              "sentence": "Sie aufmacht das Fenster",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 9600,
-              "correct": false
-            },
-            {
-              "trial": 35,
-              "sentence": "Ich gebe er das Buch",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 23627,
-              "correct": false
-            },
-            {
               "trial": 36,
               "sentence": "Er bringt sie die Zeitung",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "grammatical",
               "responseTime": 4475,
-              "correct": false
-            },
-            {
-              "trial": 37,
-              "sentence": "Er ist müde, weil er hat spät ins Bett gegangen",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 19287,
-              "correct": false
-            },
-            {
-              "trial": 38,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 23229,
-              "correct": true
-            },
-            {
-              "trial": 39,
-              "sentence": "du aufräumst dein Zimmer.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 19335,
               "correct": false
             },
             {
@@ -4480,15 +3733,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 7085,
-              "correct": true
-            },
-            {
-              "trial": 13,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 12144,
               "correct": true
             },
             {
@@ -4679,15 +3923,6 @@
               "response": "ungrammatical",
               "responseTime": 4094,
               "correct": false
-            },
-            {
-              "trial": 35,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9032,
-              "correct": true
             },
             {
               "trial": 36,
@@ -5115,15 +4350,6 @@
               "correct": true
             },
             {
-              "trial": 25,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 16454,
-              "correct": true
-            },
-            {
               "trial": 26,
               "sentence": "Langsam fährt das Auto die Straße entlang",
               "condition": "simple_non_ambiguous",
@@ -5175,15 +4401,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 3496,
-              "correct": true
-            },
-            {
-              "trial": 32,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11395,
               "correct": true
             },
             {
@@ -5241,15 +4458,6 @@
               "correct": true
             },
             {
-              "trial": 39,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9596,
-              "correct": true
-            },
-            {
               "trial": 40,
               "sentence": "Sie zeigt mir den Weg",
               "condition": "simple_non_ambiguous",
@@ -5257,15 +4465,6 @@
               "response": "grammatical",
               "responseTime": 7617,
               "correct": true
-            },
-            {
-              "trial": 41,
-              "sentence": "Ich schenke dich eine Blume",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 11176,
-              "correct": false
             },
             {
               "trial": 42,
@@ -5423,30 +4622,12 @@
           "endTime": "2025-11-13T11:45:58.995Z",
           "data": [
             {
-              "trial": 1,
-              "sentence": "Er anruft mich jeden Sonntag",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 17167,
-              "correct": true
-            },
-            {
               "trial": 2,
               "sentence": "Sie liebt ihn",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 3100,
-              "correct": true
-            },
-            {
-              "trial": 3,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 12489,
               "correct": true
             },
             {
@@ -5459,42 +4640,6 @@
               "correct": false
             },
             {
-              "trial": 5,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 22718,
-              "correct": false
-            },
-            {
-              "trial": 6,
-              "sentence": "Mach an das Licht!",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 22206,
-              "correct": true
-            },
-            {
-              "trial": 7,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 26944,
-              "correct": true
-            },
-            {
-              "trial": 8,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 14647,
-              "correct": true
-            },
-            {
               "trial": 9,
               "sentence": "Ich kann nicht schlafen ein.",
               "condition": "simple_ambiguous",
@@ -5502,24 +4647,6 @@
               "response": "grammatical",
               "responseTime": 6932,
               "correct": false
-            },
-            {
-              "trial": 10,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10848,
-              "correct": false
-            },
-            {
-              "trial": 11,
-              "sentence": "Er ist müde, weil er hat spät ins Bett gegangen",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9749,
-              "correct": true
             },
             {
               "trial": 12,
@@ -5537,42 +4664,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 6700,
-              "correct": true
-            },
-            {
-              "trial": 14,
-              "sentence": "Ich kann nicht einschlafen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 37048,
-              "correct": true
-            },
-            {
-              "trial": 15,
-              "sentence": "Sie ankommen morgen",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 34644,
-              "correct": true
-            },
-            {
-              "trial": 16,
-              "sentence": "Sie liebt er",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 15325,
-              "correct": false
-            },
-            {
-              "trial": 17,
-              "sentence": "du aufräumst dein Zimmer.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 42574,
               "correct": true
             },
             {
@@ -5603,15 +4694,6 @@
               "correct": true
             },
             {
-              "trial": 21,
-              "sentence": "Er kauft Blumen, bevor er geht nach Hause",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11163,
-              "correct": true
-            },
-            {
               "trial": 22,
               "sentence": "Ich gebe er das Buch",
               "condition": "simple_ambiguous",
@@ -5619,15 +4701,6 @@
               "response": "grammatical",
               "responseTime": 6360,
               "correct": false
-            },
-            {
-              "trial": 23,
-              "sentence": "Ich rufe dich an, sobald ich habe Zeit",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 13193,
-              "correct": true
             },
             {
               "trial": 24,
@@ -5648,30 +4721,12 @@
               "correct": true
             },
             {
-              "trial": 26,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9546,
-              "correct": true
-            },
-            {
               "trial": 27,
               "sentence": "Er schläft, da er müde ist.",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 5515,
-              "correct": true
-            },
-            {
-              "trial": 28,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 21639,
               "correct": true
             },
             {
@@ -5684,48 +4739,12 @@
               "correct": true
             },
             {
-              "trial": 30,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12877,
-              "correct": true
-            },
-            {
               "trial": 31,
               "sentence": "Die Großmutter hat die Schokolade gegessen",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 7558,
-              "correct": true
-            },
-            {
-              "trial": 32,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 10210,
-              "correct": false
-            },
-            {
-              "trial": 33,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9964,
-              "correct": false
-            },
-            {
-              "trial": 34,
-              "sentence": "Er ruft mich jeden Sonntag an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 16648,
               "correct": true
             },
             {
@@ -5774,24 +4793,6 @@
               "correct": false
             },
             {
-              "trial": 40,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 26054,
-              "correct": false
-            },
-            {
-              "trial": 41,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 8930,
-              "correct": true
-            },
-            {
               "trial": 42,
               "sentence": "Er bringt sie die Zeitung",
               "condition": "simple_ambiguous",
@@ -5828,30 +4829,12 @@
               "correct": true
             },
             {
-              "trial": 46,
-              "sentence": "Ich schenke dir eine Blume",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 17123,
-              "correct": false
-            },
-            {
               "trial": 47,
               "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 510,
-              "correct": true
-            },
-            {
-              "trial": 48,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9790,
               "correct": true
             },
             {
@@ -5882,30 +4865,12 @@
               "correct": true
             },
             {
-              "trial": 52,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 12916,
-              "correct": true
-            },
-            {
               "trial": 53,
               "sentence": "Sie lachen, denn sie sind glücklich",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 4147,
-              "correct": true
-            },
-            {
-              "trial": 54,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 18586,
               "correct": true
             },
             {
@@ -5992,15 +4957,6 @@
               "correct": true
             },
             {
-              "trial": 6,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 14962,
-              "correct": false
-            },
-            {
               "trial": 7,
               "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
               "condition": "simple_non_ambiguous",
@@ -6064,15 +5020,6 @@
               "correct": false
             },
             {
-              "trial": 14,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13160,
-              "correct": true
-            },
-            {
               "trial": 15,
               "sentence": "Er trinkt, weil er Durst hat",
               "condition": "complex_non_ambiguous",
@@ -6097,15 +5044,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 2587,
-              "correct": true
-            },
-            {
-              "trial": 18,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10202,
               "correct": true
             },
             {
@@ -6187,15 +5125,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 666,
-              "correct": true
-            },
-            {
-              "trial": 28,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10925,
               "correct": true
             },
             {
@@ -6379,15 +5308,6 @@
               "correct": true
             },
             {
-              "trial": 49,
-              "sentence": "Wir geben ihr die Schlüssel",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10005,
-              "correct": false
-            },
-            {
               "trial": 50,
               "sentence": "Sie kommen morgen an",
               "condition": "simple_non_ambiguous",
@@ -6487,15 +5407,6 @@
               "response": "grammatical",
               "responseTime": 4430,
               "correct": true
-            },
-            {
-              "trial": 3,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9545,
-              "correct": false
             },
             {
               "trial": 4,
@@ -6633,30 +5544,12 @@
               "correct": true
             },
             {
-              "trial": 19,
-              "sentence": "Ich höre dir",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11871,
-              "correct": true
-            },
-            {
               "trial": 20,
               "sentence": "Ich kann nicht schlafen ein.",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 2346,
-              "correct": true
-            },
-            {
-              "trial": 21,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10586,
               "correct": true
             },
             {
@@ -6921,15 +5814,6 @@
               "correct": true
             },
             {
-              "trial": 51,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 19676,
-              "correct": true
-            },
-            {
               "trial": 52,
               "sentence": "Wann kommst du in Berlin an?",
               "condition": "simple_non_ambiguous",
@@ -6945,15 +5829,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 2513,
-              "correct": true
-            },
-            {
-              "trial": 54,
-              "sentence": "Wir geben ihr die Schlüssel",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9403,
               "correct": true
             },
             {
@@ -7076,15 +5951,6 @@
               "correct": true
             },
             {
-              "trial": 10,
-              "sentence": "Ich kann nicht einschlafen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9562,
-              "correct": false
-            },
-            {
               "trial": 11,
               "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
               "condition": "complex_non_ambiguous",
@@ -7118,15 +5984,6 @@
               "expected": "ungrammatical",
               "response": "grammatical",
               "responseTime": 5269,
-              "correct": false
-            },
-            {
-              "trial": 15,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10533,
               "correct": false
             },
             {
@@ -7217,15 +6074,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 5885,
-              "correct": true
-            },
-            {
-              "trial": 26,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9170,
               "correct": true
             },
             {
@@ -7355,24 +6203,6 @@
               "correct": true
             },
             {
-              "trial": 41,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13306,
-              "correct": true
-            },
-            {
-              "trial": 42,
-              "sentence": "Ich schenke dich eine Blume",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 9860,
-              "correct": false
-            },
-            {
               "trial": 43,
               "sentence": "Sie macht das Fenster auf",
               "condition": "simple_non_ambiguous",
@@ -7415,15 +6245,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 6076,
-              "correct": true
-            },
-            {
-              "trial": 48,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11754,
               "correct": true
             },
             {
@@ -7573,15 +6394,6 @@
               "correct": false
             },
             {
-              "trial": 7,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10480,
-              "correct": false
-            },
-            {
               "trial": 8,
               "sentence": "Sie kommen morgen an",
               "condition": "simple_non_ambiguous",
@@ -7597,33 +6409,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 3082,
-              "correct": true
-            },
-            {
-              "trial": 10,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 50981,
-              "correct": false
-            },
-            {
-              "trial": 11,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 17431,
-              "correct": true
-            },
-            {
-              "trial": 12,
-              "sentence": "Ich rufe dich an, sobald ich habe Zeit",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 16516,
               "correct": true
             },
             {
@@ -7708,15 +6493,6 @@
               "correct": true
             },
             {
-              "trial": 22,
-              "sentence": "Ich schenke dir eine Blume",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 16114,
-              "correct": false
-            },
-            {
               "trial": 23,
               "sentence": "Er bringt sie die Zeitung",
               "condition": "simple_ambiguous",
@@ -7741,15 +6517,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 6798,
-              "correct": true
-            },
-            {
-              "trial": 26,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10215,
               "correct": true
             },
             {
@@ -7805,15 +6572,6 @@
               "response": "grammatical",
               "responseTime": 8032,
               "correct": false
-            },
-            {
-              "trial": 33,
-              "sentence": "Er kauft Blumen, bevor er geht nach Hause",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10431,
-              "correct": true
             },
             {
               "trial": 34,
@@ -7904,15 +6662,6 @@
               "response": "grammatical",
               "responseTime": 5866,
               "correct": false
-            },
-            {
-              "trial": 44,
-              "sentence": "Sie lachen, denn sie sind glücklich",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9598,
-              "correct": true
             },
             {
               "trial": 45,
@@ -8043,15 +6792,6 @@
           "endTime": "2025-11-13T21:15:14.040Z",
           "data": [
             {
-              "trial": 1,
-              "sentence": "Ich rufe dich an, sobald ich habe Zeit",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 12471,
-              "correct": false
-            },
-            {
               "trial": 2,
               "sentence": "Du räumst dein Zimmer auf",
               "condition": "simple_non_ambiguous",
@@ -8085,15 +6825,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 3901,
-              "correct": true
-            },
-            {
-              "trial": 6,
-              "sentence": "Sie zeigt mir den Weg",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9303,
               "correct": true
             },
             {
@@ -8142,15 +6873,6 @@
               "correct": true
             },
             {
-              "trial": 12,
-              "sentence": "Sie liebt er",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 9247,
-              "correct": false
-            },
-            {
               "trial": 13,
               "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
               "condition": "complex_non_ambiguous",
@@ -8169,15 +6891,6 @@
               "correct": true
             },
             {
-              "trial": 15,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 16812,
-              "correct": true
-            },
-            {
               "trial": 16,
               "sentence": "Er sieht mir",
               "condition": "simple_ambiguous",
@@ -8185,15 +6898,6 @@
               "response": "grammatical",
               "responseTime": 7602,
               "correct": false
-            },
-            {
-              "trial": 17,
-              "sentence": "Mach an das Licht!",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 8864,
-              "correct": true
             },
             {
               "trial": 18,
@@ -8205,24 +6909,6 @@
               "correct": true
             },
             {
-              "trial": 19,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 14333,
-              "correct": true
-            },
-            {
-              "trial": 20,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 16921,
-              "correct": false
-            },
-            {
               "trial": 21,
               "sentence": "Wir geben sie die Schlüssel",
               "condition": "simple_ambiguous",
@@ -8230,15 +6916,6 @@
               "response": "grammatical",
               "responseTime": 8526,
               "correct": false
-            },
-            {
-              "trial": 22,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12377,
-              "correct": true
             },
             {
               "trial": 23,
@@ -8268,15 +6945,6 @@
               "correct": true
             },
             {
-              "trial": 26,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9999,
-              "correct": false
-            },
-            {
               "trial": 27,
               "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
               "condition": "simple_ambiguous",
@@ -8304,48 +6972,12 @@
               "correct": false
             },
             {
-              "trial": 30,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9432,
-              "correct": true
-            },
-            {
               "trial": 31,
               "sentence": "du aufräumst dein Zimmer.",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 2959,
-              "correct": true
-            },
-            {
-              "trial": 32,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11572,
-              "correct": true
-            },
-            {
-              "trial": 33,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 16214,
-              "correct": true
-            },
-            {
-              "trial": 34,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9869,
               "correct": true
             },
             {
@@ -8403,15 +7035,6 @@
               "correct": false
             },
             {
-              "trial": 41,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 14111,
-              "correct": true
-            },
-            {
               "trial": 42,
               "sentence": "Sie macht das Fenster auf",
               "condition": "simple_non_ambiguous",
@@ -8430,39 +7053,12 @@
               "correct": true
             },
             {
-              "trial": 44,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9667,
-              "correct": false
-            },
-            {
-              "trial": 45,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12071,
-              "correct": true
-            },
-            {
               "trial": 46,
               "sentence": "Im Park spielen die Kinder Fußball",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 5003,
-              "correct": true
-            },
-            {
-              "trial": 47,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11635,
               "correct": true
             },
             {
@@ -8500,15 +7096,6 @@
               "response": "grammatical",
               "responseTime": 6721,
               "correct": true
-            },
-            {
-              "trial": 52,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10834,
-              "correct": false
             },
             {
               "trial": 53,
@@ -9026,15 +7613,6 @@
               "correct": true
             },
             {
-              "trial": 52,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 8811,
-              "correct": true
-            },
-            {
               "trial": 53,
               "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
               "condition": "complex_non_ambiguous",
@@ -9196,15 +7774,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 2270,
-              "correct": true
-            },
-            {
-              "trial": 13,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9731,
               "correct": true
             },
             {
@@ -9431,15 +8000,6 @@
               "response": "grammatical",
               "responseTime": 1667,
               "correct": false
-            },
-            {
-              "trial": 39,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10075,
-              "correct": true
             },
             {
               "trial": 40,
@@ -9687,15 +8247,6 @@
               "correct": true
             },
             {
-              "trial": 9,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13927,
-              "correct": true
-            },
-            {
               "trial": 10,
               "sentence": "du aufräumst dein Zimmer.",
               "condition": "simple_ambiguous",
@@ -9711,15 +8262,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 6431,
-              "correct": true
-            },
-            {
-              "trial": 12,
-              "sentence": "Ich kann nicht einschlafen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9776,
               "correct": true
             },
             {
@@ -9747,24 +8289,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 7554,
-              "correct": true
-            },
-            {
-              "trial": 16,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10565,
-              "correct": true
-            },
-            {
-              "trial": 17,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10112,
               "correct": true
             },
             {
@@ -9885,15 +8409,6 @@
               "correct": true
             },
             {
-              "trial": 31,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 12615,
-              "correct": false
-            },
-            {
               "trial": 32,
               "sentence": "Der Spielerin gibt das Kind den Ball",
               "condition": "simple_ambiguous",
@@ -9903,39 +8418,12 @@
               "correct": true
             },
             {
-              "trial": 33,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 11399,
-              "correct": false
-            },
-            {
               "trial": 34,
               "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 6881,
-              "correct": true
-            },
-            {
-              "trial": 35,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 8977,
-              "correct": true
-            },
-            {
-              "trial": 36,
-              "sentence": "Mach das Licht an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 8962,
               "correct": true
             },
             {
@@ -9948,15 +8436,6 @@
               "correct": true
             },
             {
-              "trial": 38,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9027,
-              "correct": true
-            },
-            {
               "trial": 39,
               "sentence": "Sie macht das Fenster auf",
               "condition": "simple_non_ambiguous",
@@ -9966,39 +8445,12 @@
               "correct": true
             },
             {
-              "trial": 40,
-              "sentence": "Die Großmutter hat die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 13749,
-              "correct": true
-            },
-            {
-              "trial": 41,
-              "sentence": "Er sieht mir",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9275,
-              "correct": true
-            },
-            {
               "trial": 42,
               "sentence": "Ich höre euch",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 2286,
-              "correct": true
-            },
-            {
-              "trial": 43,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 16294,
               "correct": true
             },
             {
@@ -10101,15 +8553,6 @@
               "correct": true
             },
             {
-              "trial": 55,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9657,
-              "correct": true
-            },
-            {
               "trial": 56,
               "sentence": "Wann kommst du in Berlin an?",
               "condition": "simple_non_ambiguous",
@@ -10139,33 +8582,6 @@
           "endTime": "2025-11-25T18:11:50.758Z",
           "data": [
             {
-              "trial": 1,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 21881,
-              "correct": false
-            },
-            {
-              "trial": 2,
-              "sentence": "Er sieht mir",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 40361,
-              "correct": false
-            },
-            {
-              "trial": 3,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 12292,
-              "correct": false
-            },
-            {
               "trial": 4,
               "sentence": "Ich gebe ihm das Buch",
               "condition": "simple_non_ambiguous",
@@ -10175,48 +8591,12 @@
               "correct": false
             },
             {
-              "trial": 5,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9228,
-              "correct": true
-            },
-            {
-              "trial": 6,
-              "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9227,
-              "correct": true
-            },
-            {
-              "trial": 7,
-              "sentence": "Sie liebt er",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 13015,
-              "correct": false
-            },
-            {
               "trial": 8,
               "sentence": "Sie lachen, denn sie sind glücklich",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 4639,
-              "correct": true
-            },
-            {
-              "trial": 9,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 21225,
               "correct": true
             },
             {
@@ -10236,15 +8616,6 @@
               "response": "ungrammatical",
               "responseTime": 7676,
               "correct": true
-            },
-            {
-              "trial": 12,
-              "sentence": "Ich höre dir",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 14943,
-              "correct": false
             },
             {
               "trial": 13,
@@ -10274,24 +8645,6 @@
               "correct": true
             },
             {
-              "trial": 16,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11327,
-              "correct": true
-            },
-            {
-              "trial": 17,
-              "sentence": "Sie liebt ihn",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10743,
-              "correct": false
-            },
-            {
               "trial": 18,
               "sentence": "Du räumst dein Zimmer auf",
               "condition": "simple_non_ambiguous",
@@ -10299,33 +8652,6 @@
               "response": "grammatical",
               "responseTime": 4412,
               "correct": true
-            },
-            {
-              "trial": 19,
-              "sentence": "Ich kann nicht schlafen ein.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 10864,
-              "correct": false
-            },
-            {
-              "trial": 20,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 16896,
-              "correct": false
-            },
-            {
-              "trial": 21,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10750,
-              "correct": false
             },
             {
               "trial": 22,
@@ -10364,15 +8690,6 @@
               "correct": true
             },
             {
-              "trial": 26,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12837,
-              "correct": true
-            },
-            {
               "trial": 27,
               "sentence": "Sie kommen morgen an",
               "condition": "simple_non_ambiguous",
@@ -10388,15 +8705,6 @@
               "expected": "ungrammatical",
               "response": "grammatical",
               "responseTime": 3434,
-              "correct": false
-            },
-            {
-              "trial": 29,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 20629,
               "correct": false
             },
             {
@@ -10472,15 +8780,6 @@
               "correct": true
             },
             {
-              "trial": 38,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9575,
-              "correct": true
-            },
-            {
               "trial": 39,
               "sentence": "Er ist müde, weil er hat spät ins Bett gegangen",
               "condition": "complex_ambiguous",
@@ -10490,30 +8789,12 @@
               "correct": false
             },
             {
-              "trial": 40,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 11853,
-              "correct": false
-            },
-            {
               "trial": 41,
               "sentence": "Mach an das Licht!",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 2978,
-              "correct": true
-            },
-            {
-              "trial": 42,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11967,
               "correct": true
             },
             {
@@ -10607,15 +8888,6 @@
               "correct": false
             },
             {
-              "trial": 53,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 11666,
-              "correct": false
-            },
-            {
               "trial": 54,
               "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
               "condition": "complex_ambiguous",
@@ -10687,15 +8959,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 3162,
-              "correct": true
-            },
-            {
-              "trial": 4,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10886,
               "correct": true
             },
             {
@@ -10843,15 +9106,6 @@
               "correct": true
             },
             {
-              "trial": 21,
-              "sentence": "Mach an das Licht!",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 10911,
-              "correct": false
-            },
-            {
               "trial": 22,
               "sentence": "Ich höre dir",
               "condition": "simple_ambiguous",
@@ -10915,15 +9169,6 @@
               "correct": true
             },
             {
-              "trial": 29,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11084,
-              "correct": true
-            },
-            {
               "trial": 30,
               "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
               "condition": "complex_ambiguous",
@@ -10939,15 +9184,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 5263,
-              "correct": true
-            },
-            {
-              "trial": 32,
-              "sentence": "Ich höre euch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10218,
               "correct": true
             },
             {
@@ -10976,15 +9212,6 @@
               "response": "ungrammatical",
               "responseTime": 3659,
               "correct": true
-            },
-            {
-              "trial": 36,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 14299,
-              "correct": false
             },
             {
               "trial": 37,
@@ -11223,15 +9450,6 @@
               "correct": true
             },
             {
-              "trial": 5,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 16111,
-              "correct": true
-            },
-            {
               "trial": 6,
               "sentence": "Sie zeigt mir den Weg",
               "condition": "simple_non_ambiguous",
@@ -11295,24 +9513,6 @@
               "correct": true
             },
             {
-              "trial": 13,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 19168,
-              "correct": false
-            },
-            {
-              "trial": 14,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9858,
-              "correct": false
-            },
-            {
               "trial": 15,
               "sentence": "Sie zeigt mich den Weg",
               "condition": "simple_ambiguous",
@@ -11340,24 +9540,6 @@
               "correct": true
             },
             {
-              "trial": 18,
-              "sentence": "Ich gebe er das Buch",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 14020,
-              "correct": false
-            },
-            {
-              "trial": 19,
-              "sentence": "Ich schenke dich eine Blume",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10319,
-              "correct": true
-            },
-            {
               "trial": 20,
               "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
               "condition": "simple_ambiguous",
@@ -11374,15 +9556,6 @@
               "response": "ungrammatical",
               "responseTime": 5093,
               "correct": true
-            },
-            {
-              "trial": 22,
-              "sentence": "Wir geben sie die Schlüssel",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 10675,
-              "correct": false
             },
             {
               "trial": 23,
@@ -11430,15 +9603,6 @@
               "correct": true
             },
             {
-              "trial": 28,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 12743,
-              "correct": true
-            },
-            {
               "trial": 29,
               "sentence": "Er ruft mich jeden Sonntag an",
               "condition": "simple_non_ambiguous",
@@ -11473,15 +9637,6 @@
               "response": "grammatical",
               "responseTime": 2600,
               "correct": true
-            },
-            {
-              "trial": 33,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9376,
-              "correct": false
             },
             {
               "trial": 34,
@@ -11634,15 +9789,6 @@
               "expected": "ungrammatical",
               "response": "grammatical",
               "responseTime": 2793,
-              "correct": false
-            },
-            {
-              "trial": 51,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 19589,
               "correct": false
             },
             {
@@ -11855,15 +10001,6 @@
               "correct": true
             },
             {
-              "trial": 17,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 11445,
-              "correct": true
-            },
-            {
               "trial": 18,
               "sentence": "Der Spielerin gibt das Kind den Ball",
               "condition": "simple_ambiguous",
@@ -11970,15 +10107,6 @@
               "response": "grammatical",
               "responseTime": 3722,
               "correct": true
-            },
-            {
-              "trial": 30,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 12779,
-              "correct": false
             },
             {
               "trial": 31,
@@ -12098,15 +10226,6 @@
               "correct": true
             },
             {
-              "trial": 44,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10534,
-              "correct": true
-            },
-            {
               "trial": 45,
               "sentence": "Sie macht das Fenster auf",
               "condition": "simple_non_ambiguous",
@@ -12204,15 +10323,6 @@
               "response": "ungrammatical",
               "responseTime": 3568,
               "correct": true
-            },
-            {
-              "trial": 56,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11919,
-              "correct": true
             }
           ]
         }
@@ -12307,24 +10417,6 @@
               "correct": false
             },
             {
-              "trial": 9,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9305,
-              "correct": true
-            },
-            {
-              "trial": 10,
-              "sentence": "Er bringt sie die Zeitung",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 18341,
-              "correct": false
-            },
-            {
               "trial": 11,
               "sentence": "Sie kommt nicht, da sie ist sehr krank",
               "condition": "complex_ambiguous",
@@ -12397,30 +10489,12 @@
               "correct": true
             },
             {
-              "trial": 19,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 19213,
-              "correct": false
-            },
-            {
               "trial": 20,
               "sentence": "Ich rufe dich an, sobald ich habe Zeit",
               "condition": "complex_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 5931,
-              "correct": true
-            },
-            {
-              "trial": 21,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10037,
               "correct": true
             },
             {
@@ -12448,24 +10522,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 4328,
-              "correct": true
-            },
-            {
-              "trial": 25,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 12052,
-              "correct": false
-            },
-            {
-              "trial": 26,
-              "sentence": "Wir geben ihr die Schlüssel",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 16768,
               "correct": true
             },
             {
@@ -12613,24 +10669,6 @@
               "correct": true
             },
             {
-              "trial": 43,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9105,
-              "correct": true
-            },
-            {
-              "trial": 44,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 14488,
-              "correct": false
-            },
-            {
               "trial": 45,
               "sentence": "Ich erkläre es, damit er es versteht",
               "condition": "complex_non_ambiguous",
@@ -12665,15 +10703,6 @@
               "response": "ungrammatical",
               "responseTime": 2242,
               "correct": true
-            },
-            {
-              "trial": 49,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 20279,
-              "correct": false
             },
             {
               "trial": 50,
@@ -12718,15 +10747,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 6331,
-              "correct": true
-            },
-            {
-              "trial": 55,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 12626,
               "correct": true
             },
             {
@@ -12993,15 +11013,6 @@
               "correct": true
             },
             {
-              "trial": 27,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9439,
-              "correct": true
-            },
-            {
               "trial": 28,
               "sentence": "Sie lachen, denn sie sind glücklich",
               "condition": "complex_non_ambiguous",
@@ -13146,15 +11157,6 @@
               "correct": true
             },
             {
-              "trial": 44,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 15341,
-              "correct": true
-            },
-            {
               "trial": 45,
               "sentence": "Sie liebt ihn",
               "condition": "simple_non_ambiguous",
@@ -13283,15 +11285,6 @@
           "endTime": "2025-11-18T19:54:39.702Z",
           "data": [
             {
-              "trial": 1,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10293,
-              "correct": true
-            },
-            {
               "trial": 2,
               "sentence": "Sie ankommen morgen",
               "condition": "simple_ambiguous",
@@ -13308,15 +11301,6 @@
               "response": "grammatical",
               "responseTime": 5197,
               "correct": true
-            },
-            {
-              "trial": 4,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 11941,
-              "correct": false
             },
             {
               "trial": 5,
@@ -13343,15 +11327,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 6417,
-              "correct": true
-            },
-            {
-              "trial": 8,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9614,
               "correct": true
             },
             {
@@ -13472,15 +11447,6 @@
               "correct": true
             },
             {
-              "trial": 22,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10430,
-              "correct": true
-            },
-            {
               "trial": 23,
               "sentence": "Ich höre dir",
               "condition": "simple_ambiguous",
@@ -13553,15 +11519,6 @@
               "correct": false
             },
             {
-              "trial": 31,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 8942,
-              "correct": true
-            },
-            {
               "trial": 32,
               "sentence": "Ich schenke dich eine Blume",
               "condition": "simple_ambiguous",
@@ -13595,15 +11552,6 @@
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 4610,
-              "correct": true
-            },
-            {
-              "trial": 36,
-              "sentence": "Er ist müde, weil er hat spät ins Bett gegangen",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 14140,
               "correct": true
             },
             {
@@ -13816,15 +11764,6 @@
               "correct": true
             },
             {
-              "trial": 2,
-              "sentence": "Er anruft mich jeden Sonntag",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12251,
-              "correct": true
-            },
-            {
               "trial": 3,
               "sentence": "Ich höre euch",
               "condition": "simple_non_ambiguous",
@@ -13834,30 +11773,12 @@
               "correct": true
             },
             {
-              "trial": 4,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 9339,
-              "correct": false
-            },
-            {
               "trial": 5,
               "sentence": "Ich schenke dir eine Blume",
               "condition": "simple_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 7553,
-              "correct": true
-            },
-            {
-              "trial": 6,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10377,
               "correct": true
             },
             {
@@ -13888,24 +11809,6 @@
               "correct": false
             },
             {
-              "trial": 10,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 9698,
-              "correct": false
-            },
-            {
-              "trial": 11,
-              "sentence": "Mach an das Licht!",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 9404,
-              "correct": true
-            },
-            {
               "trial": 12,
               "sentence": "Er schläft, da er müde ist.",
               "condition": "complex_non_ambiguous",
@@ -13931,15 +11834,6 @@
               "response": "ungrammatical",
               "responseTime": 6229,
               "correct": false
-            },
-            {
-              "trial": 15,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11274,
-              "correct": true
             },
             {
               "trial": 16,
@@ -14002,33 +11896,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 2883,
-              "correct": true
-            },
-            {
-              "trial": 23,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 14733,
-              "correct": true
-            },
-            {
-              "trial": 24,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 19701,
-              "correct": false
-            },
-            {
-              "trial": 25,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9558,
               "correct": true
             },
             {
@@ -14149,30 +12016,12 @@
               "correct": true
             },
             {
-              "trial": 39,
-              "sentence": "Sie ankommen morgen",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 12524,
-              "correct": true
-            },
-            {
               "trial": 40,
               "sentence": "Sie aufmacht das Fenster",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 3943,
-              "correct": true
-            },
-            {
-              "trial": 41,
-              "sentence": "Ich rufe dich an, sobald ich habe Zeit",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 8950,
               "correct": true
             },
             {
@@ -14192,33 +12041,6 @@
               "response": "grammatical",
               "responseTime": 2041,
               "correct": true
-            },
-            {
-              "trial": 44,
-              "sentence": "Wann ankommst du in Berlin?",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 13232,
-              "correct": true
-            },
-            {
-              "trial": 45,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 10866,
-              "correct": true
-            },
-            {
-              "trial": 46,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 10667,
-              "correct": false
             },
             {
               "trial": 47,
@@ -14248,15 +12070,6 @@
               "correct": true
             },
             {
-              "trial": 50,
-              "sentence": "Ich kann nicht schlafen ein.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 10370,
-              "correct": true
-            },
-            {
               "trial": 51,
               "sentence": "Ich verstehe, dass du mitkommen willst",
               "condition": "complex_non_ambiguous",
@@ -14282,24 +12095,6 @@
               "response": "grammatical",
               "responseTime": 5617,
               "correct": false
-            },
-            {
-              "trial": 54,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11752,
-              "correct": true
-            },
-            {
-              "trial": 55,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 18493,
-              "correct": true
             },
             {
               "trial": 56,
@@ -14574,15 +12369,6 @@
               "correct": true
             },
             {
-              "trial": 28,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 26362,
-              "correct": true
-            },
-            {
               "trial": 29,
               "sentence": "Er schläft, da er müde ist.",
               "condition": "complex_non_ambiguous",
@@ -14833,530 +12619,6 @@
               "response": "ungrammatical",
               "responseTime": 3678,
               "correct": true
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "Participant PMK5RPWSTK6S5 - Database",
-      "size": 10084,
-      "lastModified": 1768143596192,
-      "data": {
-        "participant": {
-          "id": "PMK5RPWSTK6S5",
-          "languageGroup": "fr",
-          "germanLevel": "B1",
-          "learningDuration": null,
-          "startTime": "2026-01-08T18:15:46.253Z"
-        },
-        "experiment": {
-          "config": {},
-          "endTime": "2026-01-08T18:17:20.138Z",
-          "data": [
-            {
-              "trial": 1,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 1308,
-              "correct": true
-            },
-            {
-              "trial": 2,
-              "sentence": "Wir geben sie die Schlüssel",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 1225,
-              "correct": false
-            },
-            {
-              "trial": 3,
-              "sentence": "Ich erkläre es, damit er es versteht",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 899,
-              "correct": false
-            },
-            {
-              "trial": 4,
-              "sentence": "Ich gebe ihm das Buch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 856,
-              "correct": true
-            },
-            {
-              "trial": 5,
-              "sentence": "Ich schenke dir eine Blume",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 551,
-              "correct": true
-            },
-            {
-              "trial": 6,
-              "sentence": "Wann kommst du in Berlin an?",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 412,
-              "correct": false
-            },
-            {
-              "trial": 7,
-              "sentence": "Sie zeigt mir den Weg",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 869,
-              "correct": true
-            },
-            {
-              "trial": 8,
-              "sentence": "Mach das Licht an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 317,
-              "correct": false
-            },
-            {
-              "trial": 9,
-              "sentence": "Er trinkt, weil er Durst hat",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 368,
-              "correct": false
-            },
-            {
-              "trial": 10,
-              "sentence": "Sie liebt er",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 367,
-              "correct": false
-            },
-            {
-              "trial": 11,
-              "sentence": "Mach an das Licht!",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 419,
-              "correct": false
-            },
-            {
-              "trial": 12,
-              "sentence": "Sie ankommen morgen",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 249,
-              "correct": true
-            },
-            {
-              "trial": 13,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 485,
-              "correct": false
-            },
-            {
-              "trial": 14,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 863,
-              "correct": false
-            },
-            {
-              "trial": 15,
-              "sentence": "Du räumst dein Zimmer auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 409,
-              "correct": true
-            },
-            {
-              "trial": 16,
-              "sentence": "du aufräumst dein Zimmer.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 100,
-              "correct": false
-            },
-            {
-              "trial": 17,
-              "sentence": "Die Großmutter hat die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 638,
-              "correct": false
-            },
-            {
-              "trial": 18,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 451,
-              "correct": true
-            },
-            {
-              "trial": 19,
-              "sentence": "Wir fahren in Urlaub, nachdem wir haben gespart",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 130,
-              "correct": false
-            },
-            {
-              "trial": 20,
-              "sentence": "Ich kann nicht einschlafen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 37,
-              "correct": true
-            },
-            {
-              "trial": 21,
-              "sentence": "Wann ankommst du in Berlin?",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 1587,
-              "correct": false
-            },
-            {
-              "trial": 22,
-              "sentence": "Sie aufmacht das Fenster",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 2205,
-              "correct": false
-            },
-            {
-              "trial": 23,
-              "sentence": "Ich gebe er das Buch",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 415,
-              "correct": true
-            },
-            {
-              "trial": 24,
-              "sentence": "Den Alien erschreckt das Kind",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 366,
-              "correct": true
-            },
-            {
-              "trial": 25,
-              "sentence": "Ich kann nicht schlafen ein.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 404,
-              "correct": true
-            },
-            {
-              "trial": 26,
-              "sentence": "Sie zeigt mich den Weg",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 640,
-              "correct": false
-            },
-            {
-              "trial": 27,
-              "sentence": "Sie kommt nicht, da sie ist sehr krank",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 243,
-              "correct": false
-            },
-            {
-              "trial": 28,
-              "sentence": "Er anruft mich jeden Sonntag",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 19,
-              "correct": false
-            },
-            {
-              "trial": 29,
-              "sentence": "Er ist müde, weil er hat spät ins Bett gegangen",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 453,
-              "correct": true
-            },
-            {
-              "trial": 30,
-              "sentence": "Ich schenke dich eine Blume",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 432,
-              "correct": false
-            },
-            {
-              "trial": 31,
-              "sentence": "Sie liebt ihn",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 213,
-              "correct": false
-            },
-            {
-              "trial": 32,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 690,
-              "correct": true
-            },
-            {
-              "trial": 33,
-              "sentence": "Den Ball jagt der Hund im Garten",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 329,
-              "correct": true
-            },
-            {
-              "trial": 34,
-              "sentence": "Ich rufe dich an, sobald ich habe Zeit",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 1120,
-              "correct": false
-            },
-            {
-              "trial": 35,
-              "sentence": "Er bringt ihnen die Zeitung",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 1477,
-              "correct": false
-            },
-            {
-              "trial": 36,
-              "sentence": "Sie lachen, denn sie sind glücklich",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 95,
-              "correct": false
-            },
-            {
-              "trial": 37,
-              "sentence": "Der Spielerin gibt das Kind den Ball",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 823,
-              "correct": true
-            },
-            {
-              "trial": 38,
-              "sentence": "Sie kommen morgen an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 399,
-              "correct": true
-            },
-            {
-              "trial": 39,
-              "sentence": "Wir bleiben drinnen, falls es regnet heute",
-              "condition": "complex_non_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 1284,
-              "correct": true
-            },
-            {
-              "trial": 40,
-              "sentence": "Langsam fährt das Auto die Straße entlang",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 114,
-              "correct": false
-            },
-            {
-              "trial": 41,
-              "sentence": "Ihr seid eingeladen, wenn Ihr Zeit habt",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 676,
-              "correct": true
-            },
-            {
-              "trial": 42,
-              "sentence": "Er kauft Blumen, bevor er geht nach Hause",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 1219,
-              "correct": false
-            },
-            {
-              "trial": 43,
-              "sentence": "Wir wissen nicht, ob er bei der Prüfung betrogen hat.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 313,
-              "correct": false
-            },
-            {
-              "trial": 44,
-              "sentence": "Ich höre euch",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 806,
-              "correct": true
-            },
-            {
-              "trial": 45,
-              "sentence": "Ich gehe raus, obwohl das Wetter schlecht ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 265,
-              "correct": false
-            },
-            {
-              "trial": 46,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 586,
-              "correct": true
-            },
-            {
-              "trial": 47,
-              "sentence": "Er sieht mir",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 536,
-              "correct": false
-            },
-            {
-              "trial": 48,
-              "sentence": "Ich höre dir",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 347,
-              "correct": true
-            },
-            {
-              "trial": 49,
-              "sentence": "Wir geben ihr die Schlüssel",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 1759,
-              "correct": false
-            },
-            {
-              "trial": 50,
-              "sentence": "Er ruft mich jeden Sonntag an",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 920,
-              "correct": true
-            },
-            {
-              "trial": 51,
-              "sentence": "Sie lernt Deutsch, seit sie wohnt in Berlin",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 2005,
-              "correct": true
-            },
-            {
-              "trial": 52,
-              "sentence": "Er sieht mich",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 313,
-              "correct": true
-            },
-            {
-              "trial": 53,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 420,
-              "correct": true
-            },
-            {
-              "trial": 54,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 166,
-              "correct": true
-            },
-            {
-              "trial": 55,
-              "sentence": "Sie macht das Fenster auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 115,
-              "correct": true
-            },
-            {
-              "trial": 56,
-              "sentence": "Er bringt sie die Zeitung",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 134,
-              "correct": false
             }
           ]
         }
@@ -16236,15 +13498,6 @@
               "correct": true
             },
             {
-              "trial": 38,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9121,
-              "correct": true
-            },
-            {
               "trial": 39,
               "sentence": "Sie kommen morgen an",
               "condition": "simple_non_ambiguous",
@@ -16380,15 +13633,6 @@
               "correct": true
             },
             {
-              "trial": 54,
-              "sentence": "Wann kommst du in Berlin an?",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9480,
-              "correct": true
-            },
-            {
               "trial": 55,
               "sentence": "Wir geben ihr die Schlüssel",
               "condition": "simple_non_ambiguous",
@@ -16445,24 +13689,6 @@
               "correct": true
             },
             {
-              "trial": 3,
-              "sentence": "Mach an das Licht!",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 23779,
-              "correct": true
-            },
-            {
-              "trial": 4,
-              "sentence": "Ich aufstehe jeden Tag um sieben Uhr",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 16106,
-              "correct": true
-            },
-            {
               "trial": 5,
               "sentence": "Die Großmutter hat die Schokolade gegessen",
               "condition": "simple_non_ambiguous",
@@ -16481,39 +13707,12 @@
               "correct": true
             },
             {
-              "trial": 7,
-              "sentence": "Sie zeigt mir den Weg",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9101,
-              "correct": true
-            },
-            {
-              "trial": 8,
-              "sentence": "Er bleibt zu Hause, während seine arbeitet Frau",
-              "condition": "complex_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 13745,
-              "correct": true
-            },
-            {
               "trial": 9,
               "sentence": "Wann ankommst du in Berlin?",
               "condition": "simple_ambiguous",
               "expected": "ungrammatical",
               "response": "ungrammatical",
               "responseTime": 3506,
-              "correct": true
-            },
-            {
-              "trial": 10,
-              "sentence": "Sie liebt ihn",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 17055,
               "correct": true
             },
             {
@@ -16553,30 +13752,12 @@
               "correct": true
             },
             {
-              "trial": 15,
-              "sentence": "sie steht jeden Tag um sechs Uhr auf",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "ungrammatical",
-              "responseTime": 11863,
-              "correct": false
-            },
-            {
               "trial": 16,
               "sentence": "Den Ball jagt der Hund im Garten",
               "condition": "simple_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 8616,
-              "correct": true
-            },
-            {
-              "trial": 17,
-              "sentence": "Ich verstehe, dass du mitkommen willst",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 11295,
               "correct": true
             },
             {
@@ -16625,30 +13806,12 @@
               "correct": true
             },
             {
-              "trial": 23,
-              "sentence": "Im Park spielen die Kinder Fußball",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 9984,
-              "correct": true
-            },
-            {
               "trial": 24,
               "sentence": "Ich erkläre es, damit er es versteht",
               "condition": "complex_non_ambiguous",
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 6284,
-              "correct": true
-            },
-            {
-              "trial": 25,
-              "sentence": "Er schläft, da er müde ist.",
-              "condition": "complex_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 21229,
               "correct": true
             },
             {
@@ -16694,15 +13857,6 @@
               "expected": "grammatical",
               "response": "grammatical",
               "responseTime": 7569,
-              "correct": true
-            },
-            {
-              "trial": 31,
-              "sentence": "Den Kater jagt der Hund",
-              "condition": "simple_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 45055,
               "correct": true
             },
             {
@@ -16778,24 +13932,6 @@
               "correct": true
             },
             {
-              "trial": 40,
-              "sentence": "Mit viel Freude hat die Großmutter die Schokolade gegessen",
-              "condition": "simple_non_ambiguous",
-              "expected": "grammatical",
-              "response": "grammatical",
-              "responseTime": 14523,
-              "correct": true
-            },
-            {
-              "trial": 41,
-              "sentence": "Ich kann nicht schlafen ein.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "ungrammatical",
-              "responseTime": 80367,
-              "correct": true
-            },
-            {
               "trial": 42,
               "sentence": "Wir geben sie die Schlüssel",
               "condition": "simple_ambiguous",
@@ -16866,15 +14002,6 @@
               "response": "ungrammatical",
               "responseTime": 4492,
               "correct": true
-            },
-            {
-              "trial": 50,
-              "sentence": "du aufräumst dein Zimmer.",
-              "condition": "simple_ambiguous",
-              "expected": "ungrammatical",
-              "response": "grammatical",
-              "responseTime": 9116,
-              "correct": false
             },
             {
               "trial": 51,
@@ -46278,36 +43405,5 @@
         }
       }
     }
-  ],
-  "analytics": {
-    "globalStats": {
-      "totalParticipants": 90,
-      "totalTrials": 4942,
-      "averageAccuracy": 79.07729664103601,
-      "averageResponseTime": 4886.800687980574
-    },
-    "conditionStats": {
-      "simple_non_ambiguous": {
-        "trials": 1766,
-        "accuracy": 90.26047565118913,
-        "avgResponseTime": 4661.118346545866
-      },
-      "complex_non_ambiguous": {
-        "trials": 799,
-        "accuracy": 86.35794743429287,
-        "avgResponseTime": 5185.001251564456
-      },
-      "simple_ambiguous": {
-        "trials": 1758,
-        "accuracy": 62.79863481228669,
-        "avgResponseTime": 4943.579635949943
-      },
-      "complex_ambiguous": {
-        "trials": 619,
-        "accuracy": 84.00646203554119,
-        "avgResponseTime": 4984.499192245557
-      }
-    },
-    "exportTime": "2026-01-11T15:00:05.841Z"
-  }
+  ]
 }

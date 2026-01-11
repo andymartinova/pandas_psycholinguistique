@@ -50,9 +50,9 @@ df = pd.DataFrame(rows)
 export_dir = "export"
 os.makedirs(export_dir, exist_ok=True)
 
-# Générer le nom de fichier avec la date et l'heure actuelle (DD-MM-HH-MM)
+# Générer le nom de fichier avec la date et l'heure actuelle (DD-MM-HH-MM-SS)
 now = datetime.now()
-filename = f"analytics-{now.strftime('%d-%m-%H-%M')}.csv"
+filename = f"analytics-{now.strftime('%d-%m-%H-%M-%S')}.csv"
 filepath = os.path.join(export_dir, filename)
 
 # Sauvegarder en CSV

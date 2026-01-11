@@ -13,6 +13,8 @@ __pycache__/
 
 # Fichiers exportés (CSV générés)
 export/*.csv
+export/clean/*.csv
+export/clean/json/*.js
 
 # IDE
 .vscode/

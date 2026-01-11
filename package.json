@@ -6,6 +6,7 @@
     "setup": "python3 -m venv venv && ./venv/bin/pip install pandas",
     "install": "./venv/bin/pip install pandas",
     "convert": "./venv/bin/python convert_to_csv.py",
-    "help": "echo 'Scripts disponibles: setup, install, convert'"
+    "clean": "./venv/bin/python clean_data.py",
+    "help": "echo 'Scripts disponibles: setup, install, convert, clean'"
   }
 }

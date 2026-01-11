@@ -40,7 +40,7 @@ pip install pandas
 python convert_to_csv.py
 ```
 
-**Explication :** Lance le script qui lit le fichier JSON `data/analytics_complete_2026-01-11.json` et crée un fichier CSV dans le dossier `export` avec le nom `analytics-DD-MM-HH-MM.csv` (où DD-MM-HH-MM correspond à la date et l'heure actuelles).
+**Explication :** Lance le script qui lit le fichier JSON `data/analytics_complete_2026-01-11.json` et crée un fichier CSV dans le dossier `export` avec le nom `analytics-DD-MM-HH-MM-SS.csv` (où DD-MM-HH-MM-SS correspond à la date, l'heure, les minutes et les secondes actuelles).
 
 ---
 
@@ -86,4 +86,4 @@ python convert_to_csv.py
 
 ## Résultat
 
-Le fichier CSV sera créé dans le dossier `export/` avec un nom au format `analytics-DD-MM-HH-MM.csv` (exemple : `analytics-11-01-14-30.csv` pour le 11 janvier à 14h30).
+Le fichier CSV sera créé dans le dossier `export/` avec un nom au format `analytics-DD-MM-HH-MM-SS.csv` (exemple : `analytics-11-01-14-30-45.csv` pour le 11 janvier à 14h30m45s).
